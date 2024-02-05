@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "This is priyas first pipeline deployment!" );
+        System.out.println( "This is priyas first pipeline deployment done!" );
 
     }
 }
